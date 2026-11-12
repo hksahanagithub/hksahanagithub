@@ -1,11 +1,19 @@
-#  Hi, I’m H K Sahana👋
+# Hi, I'm H K Sahana 👋
 
-- 👀 I’m interested in exploring new technologies, software development, and problem-solving.
-- 🌱 I’m currently learning  Python programming language.
-- 🧑‍🤝‍🧑 I’m looking to collaborate on Java projects, particularly those related to web development or software engineering.
-- 📫 How to reach me hksahana1207@gmail.com
-- 😄 Pronouns: She/her
-  
+- ☁️ Interested in Cloud Computing, Cloud Infrastructure, and DevOps technologies.
+- 🌱 Currently exploring AWS, Microsoft Azure, Terraform, and cloud automation.
+- 💻 Working on AWS & Azure cloud operations, monitoring, troubleshooting, and infrastructure management.
+- 🚀 Interested in collaborating on cloud projects, infrastructure automation, and DevOps practices.
+- 📫 Reach me at: hksahana1207@gmail.com
+- 😄 Pronouns: She/Her
 
- # Languages and Tools:
- • Core Java, Python beginners, Java Script, HTML, CSS, MYSQL.
+# ☁️ Cloud Technologies, Languages and Tools
+
+- **Cloud Platforms:** AWS, Microsoft Azure
+- **AWS Services:** EC2, S3, IAM, VPC, RDS, CloudWatch, Security Hub, Systems Manager
+- **Azure Services:** Virtual Machines, Storage Accounts, Virtual Network, Azure SQL, Key Vault, Monitor
+- **Infrastructure as Code:** Terraform (Learning)
+- **Programming & Scripting:** Python, Bash (Basics)
+- **Operating Systems:** Linux, Windows
+- **Database:** MySQL, SQL (Basics)
+- **Tools:** Git, GitHub, Jenkins, Azure Portal, AWS Management Console
